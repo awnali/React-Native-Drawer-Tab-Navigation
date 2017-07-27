@@ -1,15 +1,12 @@
 import React from 'react'
 import {StackNavigator, TabNavigator, DrawerNavigator} from 'react-navigation'
 import Icon from 'react-native-vector-icons/Ionicons'
-import {Platform} from 'react-native'
 import {Screen1} from '../screens/screen1'
 import {Screen2} from '../screens/screen2'
 import {Screen3} from '../screens/screen3'
 import {Screen4} from '../screens/screen4'
 
 const DrawerIcon = ({ navigate }) => {
-
-
     return (
         <Icon
             name="md-menu"
@@ -45,19 +42,20 @@ export const Stack2 = StackNavigator({
         screen: Screen4
     }
 })
-export const Tabs = TabNavigator({
-    Tab1:{
-        screen: Stack1
-    },
-    Tab2:{
-        screen: Stack2
-    }
-})
+
 export const Drawer = DrawerNavigator({
     Drawer1:{
         screen: Stack1
     },
     Drawer2:{
+        screen: Stack2
+    }
+})
+export const Tabs = TabNavigator({
+    Tab1:{
+        screen: Drawer
+    },
+    Tab2: {
         screen: Stack2
     }
 })

@@ -1,23 +1,23 @@
 dependencies: \
-  /Library/WebServer/Documents/react/react-native/drawer/node_modules/react-native/Libraries/WebSocket/RCTWebSocketModule.m \
-  /Library/WebServer/Documents/react/react-native/drawer/node_modules/react-native/Libraries/WebSocket/RCTWebSocketModule.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Library/WebServer/Documents/react/react-native/drawer/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/node_modules/react-native/Libraries/WebSocket/RCTWebSocketModule.m \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/node_modules/react-native/Libraries/WebSocket/RCTWebSocketModule.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h

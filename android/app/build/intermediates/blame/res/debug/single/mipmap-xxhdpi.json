@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Library/WebServer/Documents/react/react-native/drawer/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
         "source": "/Library/WebServer/Documents/react/react-native/drawer/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }

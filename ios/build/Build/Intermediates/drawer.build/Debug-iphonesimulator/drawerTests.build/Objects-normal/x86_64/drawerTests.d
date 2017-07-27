@@ -1,5 +1,5 @@
 dependencies: \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/drawerTests/drawerTests.m \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/drawerTests/drawerTests.m \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIRemote.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIKeyboardKeys.h \
@@ -35,14 +35,14 @@ dependencies: \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestErrors.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestDefines.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTest.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Library/WebServer/Documents/react/react-native/React-Native-Drawer-Tab-Navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h
