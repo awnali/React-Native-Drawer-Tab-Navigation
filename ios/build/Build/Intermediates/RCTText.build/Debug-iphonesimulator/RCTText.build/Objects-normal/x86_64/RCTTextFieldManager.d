@@ -1,0 +1,34 @@
+dependencies: \
+  /Library/WebServer/Documents/react/react-native/drawer/node_modules/react-native/Libraries/Text/RCTTextFieldManager.m \
+  /Library/WebServer/Documents/react/react-native/drawer/node_modules/react-native/Libraries/Text/RCTTextFieldManager.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Library/WebServer/Documents/react/react-native/drawer/node_modules/react-native/Libraries/Text/RCTConvert+Text.h \
+  /Library/WebServer/Documents/react/react-native/drawer/node_modules/react-native/Libraries/Text/RCTShadowTextField.h \
+  /Library/WebServer/Documents/react/react-native/drawer/node_modules/react-native/Libraries/Text/RCTTextField.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Library/WebServer/Documents/react/react-native/drawer/node_modules/react-native/Libraries/Text/RCTUITextField.h

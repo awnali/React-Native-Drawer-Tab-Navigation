@@ -1,0 +1,29 @@
+dependencies: \
+  /Library/WebServer/Documents/react/react-native/drawer/node_modules/react-native/Libraries/Image/RCTImageLoader.m \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTImageLoader.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworking.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Library/WebServer/Documents/react/react-native/drawer/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h \
+  /Library/WebServer/Documents/react/react-native/drawer/node_modules/react-native/Libraries/Image/RCTImageCache.h \
+  /Library/WebServer/Documents/react/react-native/drawer/node_modules/react-native/Libraries/Image/RCTImageUtils.h
